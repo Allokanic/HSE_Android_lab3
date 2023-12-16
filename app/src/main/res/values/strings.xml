@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="input_keyword">input keyword</string>
+    <string name="search">search</string>
+</resources>
